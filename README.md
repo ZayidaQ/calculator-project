@@ -1,13 +1,12 @@
 # Calculator-project
 
-This is a website that has been designed and developed using HTML and CSS programming languages to simulate the functionality of a calculator. The website allows users to perform basic mathematical operations such as addition, subtraction, multiplication, and division by entering numbers using the provided interface. 
-
-The calculator interface has been designed using CSS, which makes it visually appealing and user-friendly. The calculator functionality has been implemented using JavaScript, ensuring the calculations are accurate and reliable. Overall, this website provides a useful tool for anyone who needs to perform simple calculations quickly and easily.
+This is a website that has been designed and developed mainly using HTML and CSS programming languages to simulate the functionality of a calculator. The website allows users to perform basic mathematical operations such as addition, subtraction, multiplication, and division by entering numbers using the provided interface.
 
 ## Table of Contents
-* Instalation
-* Usage
-* Screenshot of page
+
+- Instalation
+- Usage
+- Screenshot of page
 
 ## Installation
 
@@ -20,10 +19,12 @@ in order to open the project:
 5. Once you're in the directory, use the git clone command followed by the copied URL to clone the repository.
 
 ### For example
+
 ```shell
 $ cd /path/to/directory/
 $ git clone https://github.com/username/project.git
 ```
+
 Or simply click on the available URL!
 
 ## Usage
@@ -31,5 +32,5 @@ Or simply click on the available URL!
 Simply open the website and start calculating
 
 ## Screenshots of the page
-<img src="sscal.png" width="65%">
 
+<img src="sscal.png" width="65%">
